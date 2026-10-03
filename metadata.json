@@ -1,0 +1,6 @@
+{
+  "name": "KoshSetu",
+  "description": "Sovereign Indian payments and cryptographic settlement platform supporting UPI, IMPS, NEFT, RTGS, and digital assets with FIU-IND and Section 194S compliance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
